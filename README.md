@@ -1,36 +1,15 @@
-# Привет! 👋 Меня зовут Патрик, и я — фронтенд-разработчик
+# 💫 About Me:
+# 💼 About Me<br><br>Hi, I'm Patric 👋<br><br>- 🎯 Aspiring Front-End and iOS Developer specializing in HTML, CSS, JavaScript, React, Swift, and Supabase.<br>- 🚀 Passionate about creating modern, responsive, and interactive web applications and iOS apps.<br>- 📚 Currently learning advanced React, Swift, and backend integration.<br>- 🌐 Building projects with Vite, GSAP, and exploring API development with FastAPI and Supabase.<br><br>---<br><br># 🛠️ Skills<br><br>**Languages:**<br>- HTML5, CSS3, JavaScript (ES6+), TypeScript, Swift<br><br>**Frameworks & Libraries:**<br>- React.js, Vite, GSAP, Tailwind CSS, SwiftUI<br><br>**Backend (Basics):**<br>- FastAPI, MySQL, Redis, Supabase<br><br>**Tools & Platforms:**<br>- Git & GitHub, VSCode, Xcode, Figma, Postman<br><br>---<br><br># 📢 Contact Me<br><br>- [Telegram](https://t.me/cuvacioc)<br>- [Email](mailto:matejtradir@gmail.com)
 
-Я создаю **современные, удобные и адаптивные сайты**, которые помогают вашим проектам выделяться.  
 
----
-
-### 🚀 Технологии и навыки:
-- **HTML5 / CSS3 / JavaScript**
-- **Кроссбраузерная и адаптивная верстка**
-- Использую популярные библиотеки и фреймворки:  
-  [Bootstrap]
-  [Tailwind CSS]
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=patricweb&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=patricweb&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patricweb&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=patricweb&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### 💡 Что я предлагаю:
-- **Создание лендингов и простых многостраничных сайтов**  
-- **Улучшение дизайна существующих сайтов**  
-- **Оптимизация скорости загрузки и структуры сайта**
-
----
-
-### 🤝 Почему вам стоит выбрать меня?
-- **Индивидуальный подход к каждому клиенту**  
-- **Внимание к деталям и желание довести проект до идеала**  
-- **Использование современных практик и технологий**
-
-
-
-### 📞 Свяжитесь со мной:
-- [Telegram](https://t.me/cuvacioc)
-- [Email](mailto:matejtradir@gmail.com)
-
----
-
-**Спасибо за внимание! 😊 Если вам нужен качественный и стильный сайт — я готов взяться за ваш проект!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
